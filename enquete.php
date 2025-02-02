@@ -1,5 +1,5 @@
 <?php 
-// conexão com o banco de dados
+// conexão com o banco de dados mudar para nuvem
 $con = mysqli_connect('localhost', 'root', '', 'enquete');
 
 // Obtenção dos votos "sim" e "não"
